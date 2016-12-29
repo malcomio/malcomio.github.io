@@ -1,0 +1,9 @@
+.idea
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-metadata
+### Sass template
+.sass-cache/
+*.css.map
+
